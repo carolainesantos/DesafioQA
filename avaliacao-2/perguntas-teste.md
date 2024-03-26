@@ -35,7 +35,7 @@ Analise a abrangência do cenário de teste em relação ao objetivo geral de ga
 
 Avalie a clareza e a precisão dos passos do teste. Os passos fornecidos são facilmente compreensíveis e executáveis? Eles abordam todas as ações necessárias para adicionar um item ao carrinho de compras de forma eficaz?
 
-- **Os passos aplicados não estão bem detalhados, poderia existir mais informações a respeito do teste, com regra de negócio ou o próprio aplicativo em si para a conferencia dos possiveis passos a serem realizados**,
+- **Os passos aplicados não estão bem detalhados, poderia existir mais informações a respeito do teste, como regra de negócio ou o próprio aplicativo em si para a conferência dos possíveis passos a serem realizados**
 
 Identifique possíveis falhas ou lacunas no cenário de teste. Existem áreas onde o cenário pode não detectar problemas relevantes que os usuários podem enfrentar ao adicionar itens ao carrinho de compras?
 
